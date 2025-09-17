@@ -10,8 +10,8 @@ public class FizzBuzz {
      */
     public static void main(String[] args) {
         //TODO
-        for (int i = 1; i <= 100; i++) {
-            System.out.print(i + " ");
+        for (int i = 1; i <= 100; i++)
+        {
 
             if (i % 15 == 0) {
                 System.out.println("FizzBuzz");
